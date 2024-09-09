@@ -47,4 +47,4 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.png
 
 <a href="https://www.flaticon.com/free-icons/soda" title="soda icons">Soda icons created by smalllikeart - Flaticon</a>
 
-<a href="https://www.flaticon.com/free-icons/summer" title="summer icons">Summer icons created by gungyoga04 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/watermelon" title="watermelon icons">Watermelon icons created by Smashicons - Flaticon</a>
