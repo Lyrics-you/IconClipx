@@ -43,3 +43,6 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.png
 
 <a href="https://www.flaticon.com/free-icons/champion" title="champion icons">Champion icons created by photo3idea_studio - Flaticon</a>
 
+<a href="https://www.flaticon.com/free-icons/green-tea" title="green tea icons">Green tea icons created by SBTS2018 - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/soda" title="soda icons">Soda icons created by smalllikeart - Flaticon</a>
