@@ -1,7 +1,7 @@
 # Iconclipx
 ## 图标
 
-
+mini 中的图片为png，像素为 144 * 144
 
 ## 链接
 
@@ -48,3 +48,7 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.png
 <a href="https://www.flaticon.com/free-icons/soda" title="soda icons">Soda icons created by smalllikeart - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/watermelon" title="watermelon icons">Watermelon icons created by Smashicons - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/target" title="target icons">Target icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Pixel perfect - Flaticon</a>
