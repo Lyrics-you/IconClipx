@@ -52,3 +52,6 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.png
 <a href="https://www.flaticon.com/free-icons/target" title="target icons">Target icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Pixel perfect - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/panda" title="panda icons">Panda icons created by Freepik - Flaticon</a>
+
