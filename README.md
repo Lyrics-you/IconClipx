@@ -5,7 +5,7 @@ mini 中的图片为png，像素为 144 * 144
 
 ## 链接
 
-https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.png
+https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 
 ## 获取来源
 
