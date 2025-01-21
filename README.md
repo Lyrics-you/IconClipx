@@ -57,3 +57,5 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 
 <a href="https://www.flaticon.com/free-icons/furniture-and-household" title="furniture and household icons">Furniture and household icons created by Vectorsclub - Flaticon</a>
 
+<a href="https://www.flaticon.com/free-icons/newspaper" title="newspaper icons">Newspaper icons created by Awicon - Flaticon</a>
+
