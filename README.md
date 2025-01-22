@@ -59,3 +59,4 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 
 <a href="https://www.flaticon.com/free-icons/newspaper" title="newspaper icons">Newspaper icons created by Awicon - Flaticon</a>
 
+<a href="https://www.flaticon.com/free-icons/international" title="international icons">International icons created by Pixel perfect - Flaticon</a>
