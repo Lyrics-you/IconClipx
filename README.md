@@ -82,3 +82,6 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 <a href="https://www.flaticon.com/free-icons/paypal" title="paypal icons">Paypal icons created by Pixel perfect - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/vision" title="vision icons">Vision icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/htc-one" title="htc one icons">Htc one icons created by iconographics - Flaticon</a>
+
