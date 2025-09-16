@@ -68,3 +68,17 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 <a href="https://www.flaticon.com/free-icons/communication" title="communication icons">Communication icons created by Vectors Market - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/youtube-music" title="youtube music icons">Youtube music icons created by iconsmind - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/gaming" title="gaming icons">Gaming icons created by sonnycandra - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/youtube-music" title="youtube music icons">Youtube music icons created by iconsmind - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Fajriah Robiatul Adawiah - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/bnb" title="bnb icons">Bnb icons created by LAFS - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/paypal" title="paypal icons">Paypal icons created by Pixel perfect - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/vision" title="vision icons">Vision icons created by Freepik - Flaticon</a>
