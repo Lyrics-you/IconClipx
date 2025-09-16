@@ -62,3 +62,9 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 <a href="https://www.flaticon.com/free-icons/international" title="international icons">International icons created by Pixel perfect - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/final-cut" title="final cut icons">Final cut icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/communication" title="communication icons">Communication icons created by Vectors Market - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/youtube-music" title="youtube music icons">Youtube music icons created by iconsmind - Flaticon</a>
