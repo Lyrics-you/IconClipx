@@ -86,3 +86,4 @@ https://raw.githubusercontent.com/Lyrics-you/IconClipx/main/Color/ + 图标.pn
 <a href="https://www.flaticon.com/free-icons/htc-one" title="htc one icons">Htc one icons created by iconographics - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/pokemon" title="pokemon icons">Pokemon icons created by Nikita Golubev - Flaticon</a>
+
